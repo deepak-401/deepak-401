@@ -23,6 +23,9 @@ I'm a passionate software developer with experience in web development, Java, Li
 ## Projects
 - **[EstateVelly.com](https://github.com/deepak-401/estatevelly)**
   - A real estate website with a structure and CSS design inspired by [Estate Velly](https://estate-velly.my.canva.site/).
+    
+  - **[Alexa](https://github.com/deepak-401/python-Alexa)**
+  - 
 
 - **Spring Boot Annotations Guide**
   - Created a comprehensive PDF guide on Spring Boot annotations based on my learning journey.
