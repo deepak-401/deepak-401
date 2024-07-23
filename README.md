@@ -26,12 +26,12 @@ I'm a passionate software developer with experience in web development, Java, Li
 
 ## Education
 - **Bachelor of Computer Applications**, Berhampur University
-- 
+  
 ## Certifications
 - **AWS Cloud Practitioner**
 
 ## Contact Me
-- **LinkedIn**: (https://www.linkedin.com/in/deepak-401)
+- **LinkedIn**: (https://www.linkedin.com/in/deepak401)
 - **Email**:(mailto:deepak.aws.cloud.1@gmail.com)
 
 ## Hobbies and Interests
