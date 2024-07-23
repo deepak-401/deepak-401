@@ -27,8 +27,8 @@ I'm a passionate software developer with experience in web development, Java, Li
 - **[Alexa](https://github.com/deepak-401/python-Alexa)**
   - This project is an Alexa-like voice assistant that uses Python to recognize speech commands and perform various actions. It leverages libraries such as     speech_recognition, pyttsx3, pywhatkit, datetime, wikipedia, and pyjokes to deliver functionalities like playing music, telling jokes, fetching Wikipedia summaries, and more.
 
-- **Spring Boot Annotations Guide**
-  - Created a comprehensive PDF guide on Spring Boot annotations based on my learning journey.
+- **[Cloud Projects](https://github.com/deepak-401/cloud-projects)**
+  - This repository contains a collection of cloud-based projects that I have worked on during my intersnship at Usrya Artivison Private Limited. These projects span various aspects of cloud computing, including infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS). Each project is designed to demonstrate specific skills and concepts in cloud computing.
 
 ## Education
 - **Bachelor of Computer Applications**, Berhampur University
