@@ -24,8 +24,8 @@ I'm a passionate software developer with experience in web development, Java, Li
 - **[EstateVelly.com](https://github.com/deepak-401/estatevelly)**
   - A real estate website with a structure and CSS design inspired by [Estate Velly](https://estate-velly.my.canva.site/).
     
-  - **[Alexa](https://github.com/deepak-401/python-Alexa)**
-  - 
+- **[Alexa](https://github.com/deepak-401/python-Alexa)**
+  - This project is an Alexa-like voice assistant that uses Python to recognize speech commands and perform various actions. It leverages libraries such as     speech_recognition, pyttsx3, pywhatkit, datetime, wikipedia, and pyjokes to deliver functionalities like playing music, telling jokes, fetching Wikipedia summaries, and more.
 
 - **Spring Boot Annotations Guide**
   - Created a comprehensive PDF guide on Spring Boot annotations based on my learning journey.
