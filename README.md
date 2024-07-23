@@ -1,5 +1,6 @@
 # Hello, I'm Deepak 👋
-![image](https://github.com/user-attachments/assets/779b88f6-1948-49fd-839c-ba978a13b4c2)
+![Black Minimal Business Personal Profile Linkedin Banner (6)](https://github.com/user-attachments/assets/38400557-6edf-4887-85a7-58e62b824c53)
+
 
 
 ## About Me
