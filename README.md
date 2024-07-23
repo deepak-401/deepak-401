@@ -31,8 +31,8 @@ I'm a passionate software developer with experience in web development, Java, Li
 - **AWS Cloud Practitioner**
 
 ## Contact Me
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Email**: [Your Email](mailto:youremail@example.com)
+- **LinkedIn**: (https://www.linkedin.com/in/deepak-401)
+- **Email**:(mailto:deepak.aws.cloud.1@gmail.com)
 
 ## Hobbies and Interests
 - Learning new technologies
