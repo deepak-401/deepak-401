@@ -1,4 +1,6 @@
 # Hello, I'm Deepak 👋
+![image](https://github.com/user-attachments/assets/779b88f6-1948-49fd-839c-ba978a13b4c2)
+
 
 ## About Me
 I'm a passionate software developer with experience in web development, Java, Linux, cloud computing, and AWS Cloud. I enjoy learning new technologies and applying them to solve real-world problems.
