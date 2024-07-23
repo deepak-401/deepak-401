@@ -25,12 +25,10 @@ I'm a passionate software developer with experience in web development, Java, Li
   - Created a comprehensive PDF guide on Spring Boot annotations based on my learning journey.
 
 ## Education
-- **[Your Degree]**, [Your University]
-  - Brief description of your degree and any notable achievements.
-
+- **Bachelor of Computer Applications**, Berhampur University
+- 
 ## Certifications
 - **AWS Cloud Practitioner**
-- **[Other Certifications]**
 
 ## Contact Me
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
