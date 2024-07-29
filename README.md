@@ -14,7 +14,7 @@ I'm a passionate software developer with experience in web development, Java, Li
 - **Tools**: VS Code, Git, Linux
 
 ## Experience
-- **Intern, Cloud Computing at Usrya Artivisin**
+- **Intern, Cloud Computing at Usrya Artivision Private Limited**
   - Gained hands-on experience in cloud computing and worked on various cloud projects.
 
 - **Intern, Java Development at Internpe**
