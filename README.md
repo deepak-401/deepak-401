@@ -6,10 +6,11 @@
 
 # 💫 About Me:
 I'm a aspiring software developer with experience in web development, Java, Linux, cloud computing, and AWS Cloud. I enjoy learning new technologies and applying them to solve real-world problems.
+
 🎯 I’m currently working on: Enhancing my skills in Full Stack Web Development, DevOps, Data Science.<br>🤝 I’m looking to collaborate on: Open-source projects or innovative ideas in Web Development and DevOps.<br>🌱 I’m currently learning: cloud computing, Web Development.<br>💬 Ask me about: Cloud Technology, Web Development, Android Development.<br>
 
 # 🙎‍♂️ Experience
-- **Intern, Cloud Engineer at Usrya Artivision Private Limited Oct-2023 to July-2024**
+- **Intern, Cloud Engineer at Usrya Artivision Private Limited (Oct-2023 to July-2024)**
   - Gained hands-on experience in cloud computing and worked on various cloud projects.
 
 ## 🌐 Socials:
@@ -30,6 +31,7 @@ I'm a aspiring software developer with experience in web development, Java, Linu
 
 # 🎓 Education
   - **Bachelor of Computer Applications**, Berhampur University 2022-2025
+    
 
 📜 Certifications
 
