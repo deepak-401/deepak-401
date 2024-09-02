@@ -32,7 +32,10 @@ I'm a aspiring software developer with experience in web development, Java, Linu
   - **Bachelor of Computer Applications**, Berhampur University 2022-2025
 
 📜 Certifications
-![image](https://github.com/user-attachments/assets/9f8ffcb0-e096-452e-a51e-d320fbe3a0e1)
+
+
+![image](https://github.com/user-attachments/assets/ffbbd9ba-7bbf-4f48-9a9e-49ab1258cb3c)
+
     
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=deepak-401&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
