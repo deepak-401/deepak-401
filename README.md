@@ -32,12 +32,6 @@ I'm a aspiring software developer with experience in web development, Java, Linu
 # 🎓 Education
   - **Bachelor of Computer Applications**, Berhampur University 2022-2025
 
-    
-
-# 📜 Certifications
-
-
-  ![image](https://github.com/user-attachments/assets/ffbbd9ba-7bbf-4f48-9a9e-49ab1258cb3c)   
 
     
 # 📊 GitHub Stats:
