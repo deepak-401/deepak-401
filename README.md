@@ -16,7 +16,7 @@ Currently building deeper expertise toward Cloud, DevOps, and SRE roles.
 
 ## About Me
 
-- Working with cloud infrastructure, Linux, Windows Server, networking, automation, Microsoft 365, and operational systems
+- Working with cloud infrastructure, Linux, networking, automation, Microsoft 365, and operational systems
 - Building dedicated AWS and DevOps engineering portfolios
 - Designing Azure architecture case studies around real business requirements
 - Automating infrastructure and operational tasks using Python and scripting
@@ -181,26 +181,12 @@ Some infrastructure and automation work cannot be published as complete reposito
 
 - Ubuntu Server
 - RAID10 storage
-- mdadm
 - Samba file sharing
 - Linux permissions
 - Backup automation
 - rclone
 - Scheduled backup jobs
 - Troubleshooting and recovery
-
-### Windows Server and Identity
-
-- Windows Server
-- Active Directory Domain Services
-- Domain controllers
-- Users and groups
-- Group Policy concepts
-- Windows administration
-- BitLocker
-- TPM
-- Windows Hello
-- Endpoint troubleshooting
 
 ### Networking and Remote Access
 
